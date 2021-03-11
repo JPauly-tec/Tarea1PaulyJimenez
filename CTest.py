@@ -1,3 +1,5 @@
+# ERR2 -2.5
+# ERR5x3 -4.5
 import pytest  # modulo necesrio para pytest
 import CharFunction  # importa el modulo con las funciones
 import string  # permite usar string.ascii_lowercase y string.ascii_uppercase, que son una listaa que contiene todas las letras del alfabeto latin en minuscula y mayuscul, respectivmente
